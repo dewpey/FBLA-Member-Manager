@@ -1,0 +1,16 @@
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\Inforum.Properties.Resources.resources
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\Inforum.csproj.GenerateResource.Cache
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\bin\Debug\Inforum.exe.config
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\bin\Debug\Inforum.exe
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\bin\Debug\Inforum.pdb
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\Inforum.exe
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\Inforum.pdb
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\Inforum.csprojResolveAssemblyReference.cache
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\Inforum.csproj.ResolveComReference.cache
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\Inforum.MainForm.resources
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\Inforum.LoadingForm.resources
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\bin\Debug\Inforum.exe.manifest
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\bin\Debug\Inforum.application
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\Inforum.exe.manifest
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\Inforum.application

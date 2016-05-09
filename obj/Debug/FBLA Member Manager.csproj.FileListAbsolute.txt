@@ -1,0 +1,9 @@
+c:\users\drew\documents\visual studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\bin\Debug\FBLA Member Manager.exe.config
+c:\users\drew\documents\visual studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\bin\Debug\FBLA Member Manager.exe
+c:\users\drew\documents\visual studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\bin\Debug\FBLA Member Manager.pdb
+c:\users\drew\documents\visual studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\FBLA Member Manager.csprojResolveAssemblyReference.cache
+c:\users\drew\documents\visual studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\FBLA_Member_Manager.Form1.resources
+c:\users\drew\documents\visual studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\FBLA_Member_Manager.Properties.Resources.resources
+c:\users\drew\documents\visual studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\FBLA Member Manager.csproj.GenerateResource.Cache
+c:\users\drew\documents\visual studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\FBLA Member Manager.exe
+c:\users\drew\documents\visual studio 2013\Projects\FBLA Member Manager\FBLA Member Manager\obj\Debug\FBLA Member Manager.pdb
